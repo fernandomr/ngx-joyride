@@ -19,6 +19,9 @@
                     "configurations": {
                         "production": {
                             "tsConfig": "projects/ngx-joyride/tsconfig.lib.prod.json"
+                        },
+                        "development": {
+                          "tsConfig": "projects/ngx-joyride/tsconfig.lib.json"
                         }
                     }
                 },
